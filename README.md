@@ -16,12 +16,12 @@ To Run Tests:
 
 ## Todo:
 
-[ ] - Remove UI
+- [ ] - Remove UI
+ 
+- [ ] - Write Unit Test
 
-[ ] - Write Unit Test
+- [ ] - Write Integration Test
 
-[ ] - Write Integration Test
+- [ ] - Cypress.io
 
-[ ] - Cypress.io
-
-[ ] - Postgres DB
+- [ ] - Postgres DB
